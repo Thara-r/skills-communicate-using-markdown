@@ -5,3 +5,4 @@
  ##### <h5>Kollam
  ###### <h6>Kerala
  ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+var myVar = "Hello, world!";
